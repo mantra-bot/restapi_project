@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a RESTful API built using the Django framework in Python to manage user data. It implements the four fundamental CRUD (Create, Read, Update, Delete) operations, providing a structured and efficient way to handle user information.
+This project is a RESTful API built using the Django framework in Python to manage user data. It implements CRUD operations, providing a structured and efficient way to handle user information.
 
 ## Key Features
 
